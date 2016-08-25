@@ -1,1 +1,1 @@
-# SI1145-Node-JS
+# SI1145-Node-JSNodejs Library for using SI1145 sensor to measure UV index, and visible light through I2C.
